@@ -11,8 +11,9 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Rashmika-Nawanjana&repo=Mock-Quiz-Sem-3&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD)](https://github.com/Rashmika-Nawanjana/Mock-Quiz-Sem-3)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Rashmika-Nawanjana&repo=Nano-Processor&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD)](https://github.com/Rashmika-Nawanjana/Nano-Processor)
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Rashmika-Nawanjana&repo=Mock-Quiz-Sem-3&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/Rashmika-Nawanjana/Mock-Quiz-Sem-3)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Rashmika-Nawanjana&repo=Nano-Processor&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d)](https://github.com/Rashmika-Nawanjana/Nano-Processor)
 
 </div>
 
