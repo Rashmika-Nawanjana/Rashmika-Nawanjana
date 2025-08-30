@@ -21,25 +21,21 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```yaml
-name: "Rashmika Nawanjana"
-role: "CSE Undergraduate"
-university: "University Of Moaratuwa"
-location: "Sri Lanka"
-focus: 
-  - "Data Structures & Algorithms"
-  - "DevOps & Cloud Computing"
-  - "Machine Learning & AI"
-  - "Full-Stack Development"
+**🎓 Computer Science Engineering Student** at **University of Moratuwa**
 
+📍 **Based in Sri Lanka**
 
-learning: ["System Design", "Cloud Computing", "DevOps"]
-goal: "Software Engineering Internship"
-```
+🔭 **Currently focused on:**
+- Data Structures & Algorithms
+- DevOps & Cloud Computing  
+- Machine Learning & AI
+- Full-Stack Development
 
-<br clear="right"/>
+🌱 **Learning:** System Design, Cloud Computing, DevOps
+
+ **Goal:** Engineering Internship
 
 ---
 
