@@ -1,105 +1,58 @@
-# Hi there! 👋 I'm Rashmika Nawanjana
+# Hi, I'm Rashmika 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;ML+%26+AI+Enthusiast;DevOps+Explorer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</div>
+📍 **Sri Lanka** | 🎓 **CSE Student @ University of Moratuwa** | 💻 **ML & AI Enthusiast**
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🚀 Featured Projects
+> Computer Science Engineering student passionate about building efficient solutions. Currently diving deep into Data Structures & Algorithms, exploring DevOps practices, and learning Machine Learning fundamentals.
 
-<div align="center">
+## Current Projects
 
+- 📚 **[QuizHub](https://github.com/Rashmika-Nawanjana/QuizHub)** - Interactive quiz platform
+- 🖥️ **[Nano-Processor](https://github.com/Rashmika-Nawanjana/Nano-Processor)** - Custom processor design and implementation
+- 🐧 **[Pintos](https://github.com/Rashmika-Nawanjana/Pintos)** - Operating system kernel modifications and enhancements
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Rashmika-Nawanjana&repo=QuizHub&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d&cache_seconds=1800)](https://github.com/Rashmika-Nawanjana/QuizHub)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Rashmika-Nawanjana&repo=Nano-Processor&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d&cache_seconds=1800)](https://github.com/Rashmika-Nawanjana/Nano-Processor)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Rashmika-Nawanjana&repo=Pintos&theme=react&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=6A5ACD&border_color=30363d&cache_seconds=1800)](https://github.com/Rashmika-Nawanjana/Pintos)
+## GitHub Activity
 
-</div>
+![GitHub Contribution Graph](https://ghchart.rshah.org/Rashmika-Nawanjana)
 
+## What I'm Doing
 
----
+- **Learning fundamentals** - Building strong foundation in DSA and system design
+- **Exploring DevOps** - Understanding CI/CD pipelines and cloud computing
+- **ML & AI journey** - Working on machine learning projects and applications
+- **Problem solving** - Practicing algorithms and competitive programming
+- **Seeking opportunities** - Looking for engineering internships to apply my skills
 
-## 🎯 About Me
+## Connect
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-**🎓 Computer Science Engineering Student** at **University of Moratuwa**
-
-📍 **Based in Sri Lanka**
-
-🔭 **Currently focused on:**
-- Data Structures & Algorithms
-- DevOps & Cloud Computing  
-- Machine Learning & AI
-- Full-Stack Development
-
-🌱 **Learning:** System Design, Cloud Computing, DevOps
-
- **Goal:** Engineering Internship
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript&theme=dark" />
-
-**Frameworks & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,linux&theme=dark" />
-
-</div>
+[![Gmail](https://img.shields.io/badge/-rashmikanawanjanauni@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rashmikanawanjanauni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Rashmika_Nawanjana-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmika-nawanjana-88b6b2300/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rashmika-Nawanjana)
 
 ---
 
-## 📊 GitHub Stats
+### Philosophy
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmika-Nawanjana&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6A5ACD&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmika-Nawanjana&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
+> "Anyone can write complex code. Real skill lies in making it simple, clear, and maintainable."
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmika-Nawanjana&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=6A5ACD&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
+<details>
+<summary>Random Facts</summary>
 
----
+- 🎓 Studying Computer Science Engineering at University of Moratuwa
+- 💡 Passionate about clean code and elegant solutions
+- 🌱 Always learning and exploring new technologies
+- 🎯 Goal-oriented and driven by challenges
+- 📍 Based in Sri Lanka
 
-
-
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmika-Nawanjana&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=6A5ACD&point=FF6B6B" alt="Contribution Graph" width="90%"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-<a href="mailto:your.rashmikanawanjanauni@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/rashmika-nawanjana-88b6b2300/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  
-**💻 "Anyone can write complex code. Real skill lies in making it simple, clear, and maintainable."**
-
-</div>
+</details>
