@@ -45,7 +45,7 @@
 
 ### Philosophy
 
-> "Anyone can write complex code. Real skill lies in making it simple, clear, and maintainable."
+> "What I cannot create, I do not understand"
 
 <details>
 <summary>Random Facts</summary>
