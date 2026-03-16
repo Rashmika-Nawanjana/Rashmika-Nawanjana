@@ -19,7 +19,8 @@
 ## Current Projects
 
 - 📚 **[QuizHub](https://github.com/Rashmika-Nawanjana/QuizHub)** - Interactive quiz platform
-- 🌾 **[Govi-Isuru](https://github.com/Rashmika-Nawanjana/Govi-Isuru)** - AI-powered smart agriculture platform 
+- 🌾 **[Govi-Isuru](https://github.com/Rashmika-Nawanjana/Govi-Isuru)** - AI-powered smart agriculture platform
+- 🐧 **[GROWTH-INTELLIGENCE-ASSISTANT](https://github.com/Rashmika-Nawanjana/GROWTH-INTELLIGENCE-ASSISTANT)** - AI Market Intelligence Agents
 - 🖥️ **[Nano-Processor](https://github.com/Rashmika-Nawanjana/Nano-Processor)** - Custom processor design and implementation
 - 🐧 **[Pintos](https://github.com/Rashmika-Nawanjana/Pintos)** - Operating system kernel modifications and enhancements
 
