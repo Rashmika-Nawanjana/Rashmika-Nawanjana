@@ -24,10 +24,6 @@
 - 🖥️ **[Nano-Processor](https://github.com/Rashmika-Nawanjana/Nano-Processor)** - Custom processor design and implementation
 - 🐧 **[Pintos](https://github.com/Rashmika-Nawanjana/Pintos)** - Operating system kernel modifications and enhancements
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Rashmika-Nawanjana)
-
 ## What I'm Doing
 
 - **Learning fundamentals** - Building strong foundation in DSA and system design
